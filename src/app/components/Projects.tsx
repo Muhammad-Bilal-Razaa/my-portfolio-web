@@ -2,7 +2,7 @@
 import React from 'react'
 import Image from 'next/image'
 import project1 from "../../../public/assests/projects/Project-1.png"
-import project2 from "../../../public/assests/projects/Project-2.png"
+import project2 from "../../../public/assests/projects/project-2.png"
 import project3 from "../../../public/assests/projects/Project-3.png"
 const Projects = () => {
   return (
@@ -81,7 +81,7 @@ My Projects
                 >
                   <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z" />
                 </svg>
-                6
+                
               </span>
             </div>
           </div>
@@ -96,7 +96,7 @@ My Projects
             alt="Project-2"
             width={500}
             height={200}
-            src={project2}
+            src={project3}
           
           />
           <div className="p-6">
@@ -167,7 +167,7 @@ My Projects
             alt="Project-3"
             width={500}
             height={200}
-            src={project3}
+            src={project2}
           
           />
           <div className="p-6">
@@ -175,11 +175,11 @@ My Projects
              PROJECTS NAME :
             </h2>
             <h1 className="title-font text-lg font-medium text-yellow-400 mb-3">
-              Statisc-Resume
+              Static-Resume
             </h1>
             <p className="leading-relaxed mb-3">
               I created this project using HTML and CSS and Typescript.
-              This is a statisc resume with dynamic data.
+              This is a static resume with with hide skills function.
             </p>
             <div className="flex items-center flex-wrap ">
               <a className="text-yellow-500 inline-flex items-center md:mb-2 lg:mb-0">
@@ -224,7 +224,7 @@ My Projects
                 >
                   <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z" />
                 </svg>
-                6
+              
               </span>
             </div>
           </div>

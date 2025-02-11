@@ -88,7 +88,7 @@ const Contact = () => {
        Submit
       </button>
       <p className="text-xs text-gray-800 mt-3 pl-4">
-        Thankyou ! for reaching out to me.
+        Thankyou  for reaching out to me.
       </p>
     </div>
   </div>
