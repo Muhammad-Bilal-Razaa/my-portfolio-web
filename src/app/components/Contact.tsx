@@ -84,7 +84,7 @@ const Contact = () => {
           defaultValue={""}
         />
       </div>
-      <button type='submit' className="text-gray-100 bg-slate-950 border-0 py-1  sm:py-2 sm:px-6 mx-1 text-[12px] sm:text-[15px] md:text-[17px] lg:text-[20px] focus:outline-none hover:bg-slate-800 rounded ">
+      <button type='submit' id='button' className="text-gray-100 bg-slate-950 border-0 py-1  sm:py-2 sm:px-6 mx-1 text-[12px] sm:text-[15px] md:text-[17px] lg:text-[20px] focus:outline-none hover:bg-slate-800 rounded ">
        Submit
       </button>
       <p className="text-xs text-gray-800 mt-3 pl-4">

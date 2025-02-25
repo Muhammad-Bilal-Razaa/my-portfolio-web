@@ -21,6 +21,7 @@ My Projects
       <div className="p-4 md:w-1/3">
         <div className="h-full w-full border-2 border-yellow-300  border-opacity-60 shadow-sm shadow-gray-400 rounded-lg overflow-hidden">
        <Image
+       id='animated-border'
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             alt="Project-1"
             width={500}
@@ -92,6 +93,7 @@ My Projects
       <div className="p-4 md:w-1/3">
         <div className="h-full w-full border-2 border-yellow-300  border-opacity-60 shadow-sm shadow-gray-400 rounded-lg overflow-hidden">
        <Image
+              id='animated-border'
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             alt="Project-2"
             width={500}
@@ -163,6 +165,7 @@ My Projects
       <div className="p-4 md:w-1/3">
         <div className="h-full border-2 border-yellow-300  border-opacity-60 shadow-sm shadow-gray-400 rounded-lg overflow-hidden">
        <Image
+              id='animated-border'
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             alt="Project-3"
             width={500}

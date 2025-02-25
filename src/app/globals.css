@@ -25,10 +25,9 @@ transform: translate(0, 0);
 #Hero,#Projects,#Contact,#About{
   animation: appear linear;
   animation-timeline: view();
-  animation-range: entry 0 cover 40%;
+  animation-range: entry 0 cover 25%;
 }    
-   
-   
+
    @keyframes fadeIn{
    
    0% {
